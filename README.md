@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/minhajtapader" target="blank"><img src="https://img.shields.io/twitter/follow/minhajtapader?logo=twitter&style=for-the-badge" alt="minhajtapader" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tapader13](https://github.com/tapader13)
 
