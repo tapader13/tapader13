@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://minhaj-mu.vercel.app/]
+- 👨‍💻 All of my projects are available at https://minhaj-mu.vercel.app/
 
 - 💬 Ask me about **CPP**
 
