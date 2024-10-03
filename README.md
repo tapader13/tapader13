@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapader13&label=Profile%20views&color=0e75b6&style=flat" alt="tapader13" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at https://minhaj-mu.vercel.app/
 
