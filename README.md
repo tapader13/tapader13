@@ -4,7 +4,9 @@
 <!-- <h1 align="center">Hi there, I'm Minhaj Uddin Tapader 👋</h1>
 <h3 align="center">An Aspiring Computer Science Student from Bangladesh</h3> -->
 
-<p align="center mt-10">
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tapader13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/tapader13?tab=followers"><img src="https://img.shields.io/github/followers/tapader13?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
