@@ -1,5 +1,5 @@
 <div align="center">
-![Welcome GIF](https://i.postimg.cc/MGSsj1d6/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30332f37372f30382f32322f313030305f465f3337.jpg)
+  <img src="https://i.postimg.cc/MGSsj1d6/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30332f37372f30382f32322f313030305f465f3337.jpg" alt="Welcome GIF" width="300"/>
 </div>
 <!-- <h1 align="center">Hi there, I'm Minhaj Uddin Tapader 👋</h1>
 <h3 align="center">An Aspiring Computer Science Student from Bangladesh</h3> -->
