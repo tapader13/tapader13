@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">📚 Currently diving into **Prisma** to master efficient database queries  <br>🎯 Goals: Build scalable, high-performance web applications and refine my full-stack expertise  <br>🚀 Aspiring to optimize web performance and create seamless user experiences  <br>💡 Favorite Tech Stack: **React, TypeScript, Express.js, Prisma, MongoDB**  <br>🎲 Fun fact: I once spent hours debugging, only to realize I was in the wrong file 🤦‍♂️</p>
+<p align="left">📚 Currently diving into Prisma to master efficient database queries  <br>🎯 Goals: Build scalable, high-performance web applications and refine my full-stack expertise  <br>🚀 Aspiring to optimize web performance and create seamless user experiences  <br>💡 Favorite Tech Stack: React, TypeScript, Express.js, Prisma, MongoDB  <br>🎲 Fun fact: I once spent hours debugging, only to realize I was in the wrong file 🤦‍♂️</p>
 
 ###
 
