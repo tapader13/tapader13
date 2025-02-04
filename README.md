@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://i.postimg.cc/MGSsj1d6/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30332f37372f30382f32322f313030305f465f3337.jpg" alt="Welcome GIF" />
 </div>
-<h1 align="left">Hi, I'm Minhaj Uddin 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tapader13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/tapader13?tab=followers"><img src="https://img.shields.io/github/followers/tapader13?label=Followers&style=social" alt="GitHub Followers"></a>
+</p>
+<h1 align="left">Hi, I'm Minhaj Uddin Tapader👋</h1>
 
 ###
 
