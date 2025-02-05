@@ -128,9 +128,9 @@
   <a href="https://wa.me/8801786224382" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="tel:+8801786224382" target="blank">
-    <img src="https://img.shields.io/badge/Call-%2300A300.svg?style=for-the-badge&logo=phone&logoColor=white" alt="Call" />
-  </a>
+
+   ![Call Me](https://img.shields.io/badge/📞%20Call%20Me-+880--1786--224382-green?style=for-the-badge&logo=phone&logoColor=white)
+  
 </p>
 
 ###
