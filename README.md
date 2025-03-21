@@ -2,6 +2,9 @@
   <img src="https://i.postimg.cc/j28L3tgL/Black-and-White-Gradient-Personal-Linked-In-Banner.png" alt="Welcome GIF" />
 </div>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00A0F0&center=true&width=435&lines=Hey+there!!;It's+Minhaj+Uddin;a+React+Developer;a+Fullstack+JavaScript+Developer;" alt="Typing SVG" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tapader13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/tapader13?tab=followers"><img src="https://img.shields.io/github/followers/tapader13?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
