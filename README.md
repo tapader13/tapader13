@@ -150,3 +150,19 @@
 </div>
 
 ###
+
+<h2 align="left">📝 Latest Blog Posts</h2>
+
+<p align="left">
+  Check out some of my recent articles on <a href="https://dev.to/tapader13" target="_blank">dev.to</a>, where I write about React, JavaScript, and web development.
+</p>
+
+<ul>
+  <li><a href="https://dev.to/tapader13/how-to-use-react-context-effectively-1abc" target="_blank">How to Use React Context Effectively</a></li>
+  <li><a href="https://dev.to/tapader13/async-await-in-javascript-xyz" target="_blank">Async/Await in JavaScript</a></li>
+  <li><a href="https://dev.to/tapader13/building-a-fullstack-app-with-nextjs-123" target="_blank">Building a Fullstack App with Next.js</a></li>
+</ul>
+
+<p align="left">
+  👉 See more on my <a href="https://dev.to/tapader13" target="_blank">dev.to profile</a>.
+</p>
