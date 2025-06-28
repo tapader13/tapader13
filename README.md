@@ -158,11 +158,10 @@
 </p>
 
 <ul>
-  <li><a href="https://dev.to/tapader13/how-to-use-react-context-effectively-1abc" target="_blank">How to Use React Context Effectively</a></li>
-  <li><a href="https://dev.to/tapader13/async-await-in-javascript-xyz" target="_blank">Async/Await in JavaScript</a></li>
-  <li><a href="https://dev.to/tapader13/building-a-fullstack-app-with-nextjs-123" target="_blank">Building a Fullstack App with Next.js</a></li>
+  <li><a href="https://dev.to/tapader13/database-normalization-a-complete-guide-to-1nf-2nf-3nf-and-bcnf-1j1a" target="_blank">Database Normalization: A Complete Guide to 1NF, 2NF, 3NF, and BCNF</a></li>
+  <li><a href="https://dev.to/tapader13/socketio-for-beginners-build-a-live-online-users-tracker-with-mern-1ibj" target="_blank">Socket.IO for Beginners: Build a Live Online Users Tracker with MERN</a></li>
 </ul>
 
 <p align="left">
-  👉 See more on my <a href="https://dev.to/tapader13" target="_blank">dev.to profile</a>.
+  👉 See more on my <a href="https://dev.to/tapader13" target="_blank">Minhaj Tapader</a>.
 </p>
