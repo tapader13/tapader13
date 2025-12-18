@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I am a Web Developer passionate about React.js, TypeScript, Next.js, Express.js, MongoDB, and MySQL. I thrive on building impactful projects and constantly refining my skills. Currently, I’m diving into Prisma, and I love collaborating with developers worldwide to create innovative solutions.</p>
+<p align="left">I am a Web Developer passionate about React.js, TypeScript, Next.js, Express.js, MongoDB, FastAPI and PostgreSQL. I thrive on building impactful projects and constantly refining my skills. Currently, I’m diving into Prisma, and I love collaborating with developers worldwide to create innovative solutions.</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">📚 Currently diving into Prisma to master efficient database queries  <br>🎯 Goals: Build scalable, high-performance web applications and refine my full-stack expertise  <br>🚀 Aspiring to optimize web performance and create seamless user experiences  <br>💡 Favorite Tech Stack: React, TypeScript, Express.js, Prisma, MongoDB  <br>🎲 Fun fact: I once spent hours debugging, only to realize I was in the wrong file 🤦‍♂️</p>
+<p align="left">📚 Currently diving into DL to master AI  <br>🎯 Goals: Build scalable, high-performance web applications and refine my full-stack expertise  <br>🚀 Aspiring to optimize web performance and create seamless user experiences  <br>💡 Favorite Tech Stack: React, TypeScript, Express.js, Prisma, MongoDB  <br>🎲 Fun fact: I once spent hours debugging, only to realize I was in the wrong file 🤦‍♂️</p>
 
 ###
 
@@ -43,21 +43,40 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+<img width="12" />
+
+<!-- New additions -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="ci/cd github logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="sklearn logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+
 </div>
 
 ###
